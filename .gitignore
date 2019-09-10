@@ -2,9 +2,9 @@
 Tasks1/data/
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
+*/data/*
 
-
-# Compiled source #
+Compiled source #
 ###################
 *.com
 *.class
